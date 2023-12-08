@@ -18,6 +18,26 @@ smdm_contactRequest_received = {
   "title": ""
 }
 
+smdm_profileInfo = {
+  "first_name": "",
+  "middle_name": "",
+  "last_name": "",
+  "username": "",
+  "emails": [],
+  "birthday": {"year": "", "month": "", "date": ""},
+  "bio"
+  "gender": "",
+  "hometown": "",
+  "family": [],
+  "education": "",
+  "languages": [],
+  "websites": [],
+  "phone_numbers": [],
+  "about_me": "",
+  "quotes": "",
+  "url": ""
+}
+
 
 
 #Instagram datatypes
