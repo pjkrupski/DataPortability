@@ -1,0 +1,57 @@
+SMDM comments
+
+{
+   "comments": comment[]
+}
+
+
+comment: {
+       "media": string[]       //anything in Inst media data list   
+        ,
+       "comment_text": "what the comment is",
+       "author": "who wrote the comment",
+       "media_owner": "who owns the post",
+       "timestamp": "12345" 
+}
+
+
+
+#SMDM requests
+#::Facebook friend requests sent and received
+#::Instagram follow requests sent and received
+#category indicates sent or received 
+#status indicates follower, following, or freind if both 
+
+smdm_contactRequest = {
+  "name": "",
+  "timestamp": 0000,
+  "href": "",
+  "title": "",
+  "category": "",
+  "status": ""
+}
+
+
+
+
+SMDM Friends
+Same as FB
+
+SMDM Followers
+Same as Inst
+
+SMDM Following
+Same as Inst 
+
+
+
+
+
+
+
+
+
+
+
+
+
