@@ -70,6 +70,7 @@ Copy these files from the GDPR request result to the DataPortability/instagram_d
 
 - **Add/Request Permissions**:  
   `public_profile`
+  
   `page_post`
   `instagram`
   `https://developers.facebook.com/docs/permissions/`
