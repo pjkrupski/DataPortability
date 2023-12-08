@@ -77,7 +77,7 @@ Copy these files from the GDPR request result to the DataPortability/instagram_d
 
 #### (4) Other Requirements
  **Python3**
-  **Bash Shell**
+**Bash Shell**
 
 ## Running The Code
 Facebook_to_SMDM.py and Instagram_to_SMDM.py will take in the transferred files from the GDPR data requests and translate them to the SMDM standardized format specified in the documentation. These outputs are in json format and saved in the smdm_data directory
