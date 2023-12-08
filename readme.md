@@ -9,11 +9,11 @@ This project aims to provide social media users with a viable approach to achiev
 ### Data storage for GDPR request results
 
 ### A Standardized format for 
-**1** (1) Profile Information
-**2** (2) Posts
-**3** (3) Friends and followers
-**4** (4) Likes and Reactions
-**5** (5) Comments
+**(1)** Profile Information
+**(2)** Posts
+**(3)** Friends and followers
+**(4)** Likes and Reactions
+**(5)** Comments
 
 
 ## Dependencies
