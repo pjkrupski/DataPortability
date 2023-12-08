@@ -69,11 +69,11 @@ Copy these files from the GDPR request result to the DataPortability/instagram_d
   `https://developers.facebook.com/docs/development/create-an-app/`
 
 - **Add/Request Permissions**:  
-  --public_profile
-  --page_post
-  --instagram
-  --https://developers.facebook.com/docs/permissions/
-  --https://developers.facebook.com/docs/instagram-api/getting-started/
+  -public_profile
+  -page_post
+  -instagram
+  -https://developers.facebook.com/docs/permissions/
+  -https://developers.facebook.com/docs/instagram-api/getting-started/
 
 #### (4) Other Requirements
  **Python3**
