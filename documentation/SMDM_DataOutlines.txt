@@ -15,6 +15,16 @@ comment: {
 }
 
 
+SMDM likes and reactions
+
+reactions{
+  "timestamp": 0000,
+  "reaction": "",
+  "actor": "",
+  "title": ""
+}
+    
+
 
 #SMDM requests
 #::Facebook friend requests sent and received
@@ -22,7 +32,7 @@ comment: {
 #category indicates sent or received 
 #status indicates follower, following, or freind if both 
 
-smdm_contactRequest = {
+smdm_contact = {
   "name": "",
   "timestamp": 0000,
   "href": "",
@@ -52,7 +62,13 @@ smdm_profileInfo = {
   "url": ""
 }
 
-
+smdm_posts = {
+  "uri": "",
+  "title": "",
+  "creation_timestamp": 0000,
+  "upload_ip": 0000,
+  "taken_timestamp": 0000
+}
 
 
 

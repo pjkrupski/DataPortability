@@ -11,11 +11,13 @@ smdm_comments = {
     "comments": []
 }
 
-smdm_contactRequest_received = {
+smdm_contact = {
   "name": "",
   "timestamp": 0000,
   "href": "",
-  "title": ""
+  "title": "",
+  "category": "",
+  "status": ""
 }
 
 smdm_profileInfo = {

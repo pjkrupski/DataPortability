@@ -1,0 +1,59 @@
+{
+  "profile_user": [
+    {
+      "title": "User Information",
+      "media_map_data": {
+        "Profile Photo": {
+          "uri": "media/other/277315823_486121996546960_8695766471186305652_n_17888199056621028.jpg",
+          "creation_timestamp": 1648448069,
+          "title": "",
+          "cross_post_source": {
+            "source_app": "FB"
+          }
+        }
+      },
+      "string_map_data": {
+        "Email": {
+          "href": "",
+          "value": "pjkrupski@gmail.com",
+          "timestamp": 0
+        },
+        "Phone Confirmed": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "Username": {
+          "href": "",
+          "value": "pjkrupski",
+          "timestamp": 0
+        },
+        "Name": {
+          "href": "",
+          "value": "Paul Krupski",
+          "timestamp": 0
+        },
+        "Bio": {
+          "href": "",
+          "value": "My photography collection from across the country and around the world\nCameras Used:\n12 MP 26mm (wide) \n12 MP 52mm (telephoto)\n16 MP 12mm (ultrawide)",
+          "timestamp": 0
+        },
+        "Gender": {
+          "href": "",
+          "value": "male",
+          "timestamp": 0
+        },
+        "Date of birth": {
+          "href": "",
+          "value": "1997-05-28",
+          "timestamp": 0
+        },
+        "Private Account": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}
